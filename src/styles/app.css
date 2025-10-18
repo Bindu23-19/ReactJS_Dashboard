@@ -1,0 +1,35 @@
+
+/* Sidebar handled in its own css file */
+.navbar {
+  padding: 14px 18px;
+  background: var(--card);
+  margin: 16px;
+  border-radius: var(--radius);
+  display:flex;
+  align-items:center;
+  gap:12px;
+  box-shadow: var(--shadow);
+}
+.top-left{
+  display:flex;
+  align-items:center;
+  gap:12px;
+}
+.search-input{
+  flex:1;
+  background:#f1f5f9;
+  border:none;
+  padding:10px 14px;
+  border-radius:10px;
+}
+.nav-actions{
+  display:flex;align-items:center;
+  gap:12px;margin-left:auto;
+  color:var(--muted)
+}
+.footer-note{
+  font-size:12px;
+  color:var(--muted);
+  text-align:center;
+  margin-top:24px
+}

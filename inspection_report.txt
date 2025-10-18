@@ -1,0 +1,13 @@
+Quick Inspection Report
+
+Dashboard files found: ['pages/Dashboard.jsx', 'styles/dashboard.css']
+Table-related files found: ['components/DataTable.jsx', 'pages/Invoice.jsx', 'styles/datatable.css']
+CSS files count under src/: 6
+JSON data files under src/: []
+
+Top-level entries:
+README.md
+index.html
+package.json
+src
+vite.config.js
