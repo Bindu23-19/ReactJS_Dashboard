@@ -1,5 +1,5 @@
 
-# React Dashboard XD Prototype
+# React Dashboard 
 
 A lightweight ReactJS frontend prototype replicating the provided Adobe XD dashboard and invoice screens.
 
