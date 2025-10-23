@@ -60,3 +60,21 @@ nav{
 @media (max-width:900px){
   .sidebar{display:none}
 }
+
+.no-hover span {
+  display: block !important; 
+}
+
+.sidebar:hover .no-hover span {
+  display: block !important; 
+}
+
+
+.no-hover:hover,
+.no-hover:hover svg {
+  background: none !important;
+  color: inherit !important;
+  transform: none !important;
+  cursor: pointer !important;
+  box-shadow: var(--shadow) !important; 
+}
